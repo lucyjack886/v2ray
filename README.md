@@ -5,5 +5,6 @@
 # 机场推荐
 
 **新辰云机场**：https://reami.us
+**TG频道**：https://t.me/starrySkyCloud
 
 机场一元起步，性价比超级高。
