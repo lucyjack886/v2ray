@@ -4,7 +4,7 @@
 
 # 机场推荐
 
-**新辰云机场**：https://reami.us
+**新辰云机场**：[https://reami.us](https://reami.us/#/register?code=XIqJk9Ac)
 **TG频道**：https://t.me/starrySkyCloud
 
 机场1元起步，性价比超级高。
@@ -23,11 +23,11 @@
 ### **价格亲民：**
 > 1元起步，价格无压力！只需1元，1元，1元！
 
-> 立即体验：https://reami.us/
+> 立即体验：[https://reami.us/](https://reami.us/#/register?code=XIqJk9Ac)
 > 
-> 立即体验：https://reami.us/
+> 立即体验：[https://reami.us/](https://reami.us/#/register?code=XIqJk9Ac)
 > 
-> 立即体验：https://reami.us/
+> 立即体验：[https://reami.us/](https://reami.us/#/register?code=XIqJk9Ac)
 
 ### 开启4K畅游，150M以上高速尽在掌握！
 ![](https://reami.us/imgs/youtube.png)
