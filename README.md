@@ -29,3 +29,9 @@
 #### 开启4K畅游，150M以上高速尽在掌握！
 ![](https://reami.us/imgs/youtube.png)
 
+# 转载永久免费订阅
+PS:转载大佬订阅，如果不能正常更新，请在外网状态下更新
+
+v2订阅：https://raw.githubusercontent.com/freefq/free/master/v2
+
+clash订阅：https://suo.st/dW1UNYW
