@@ -37,6 +37,7 @@ v2订阅：https://raw.githubusercontent.com/freefq/free/master/v2
 clash订阅：https://suo.st/dW1UNYW
 
 # 小火箭帐号获取
+
 获取地址1：https://id.fcjs.xyz
 
 获取地址2：https://idshare001.me
@@ -44,6 +45,7 @@ clash订阅：https://suo.st/dW1UNYW
 获取地址3：https://www.fengche666.net/p/appleid1
 
 获取地址4：https://appid.nbcn.xyz/share/jishubai
+
 
 # 工具下载
 
