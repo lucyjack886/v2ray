@@ -35,3 +35,28 @@ PS:转载大佬订阅，如果不能正常更新，请在外网状态下更新
 v2订阅：https://raw.githubusercontent.com/freefq/free/master/v2
 
 clash订阅：https://suo.st/dW1UNYW
+
+# 小火箭帐号获取
+获取地址1：https://id.fcjs.xyz
+
+获取地址2：https://idshare001.me
+
+获取地址3：https://www.fengche666.net/p/appleid1
+
+获取地址4：https://appid.nbcn.xyz/share/jishubai
+
+# 工具下载
+
+V2RayN Windows 客户端：[https://github.com/2dust/v2rayN/releases](点击下载)
+
+V2Ray 安卓客户端：[https://github.com/2dust/v2rayNG/releases](点击下载)
+
+Clash Windows端：[https://github.com/Fndroid/clash_for_windows_pkg/releases](点击下载)
+
+Clash Windows汉化地址：[https://drive.google.com/file/d/1hLY1pedrIxA1u8sEkPWnMLEsQawD0nvf/view?usp=sharing](点击下载)
+
+Clash安卓客户端：[https://github.com/naicfeng/ClashRForAndroid/releases](点击下载)
+
+Clash .NET电脑客户端：[https://github.com/ClashDotNetFramework/experimental-clash/releases](点击下载)
+
+WinXray Windows 客户端：[](点击下载)
