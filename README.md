@@ -47,7 +47,7 @@ clash订阅：https://suo.st/dW1UNYW
 
 # 工具下载
 
-V2RayN Windows 客户端： [https://github.com/2dust/v2rayN/releases](点击下载)
+V2RayN Windows 客户端：[点击下载](https://github.com/2dust/v2rayN/releases)
 
 V2Ray 安卓客户端：(https://github.com/2dust/v2rayNG/releases)[点击下载]
 
