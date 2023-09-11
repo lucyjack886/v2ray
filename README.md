@@ -47,16 +47,16 @@ clash订阅：https://suo.st/dW1UNYW
 
 # 工具下载
 
-V2RayN Windows 客户端：[https://github.com/2dust/v2rayN/releases](点击下载)
+V2RayN Windows 客户端：(https://github.com/2dust/v2rayN/releases)[点击下载]
 
-V2Ray 安卓客户端：[https://github.com/2dust/v2rayNG/releases](点击下载)
+V2Ray 安卓客户端：(https://github.com/2dust/v2rayNG/releases)[点击下载]
 
-Clash Windows端：[https://github.com/Fndroid/clash_for_windows_pkg/releases](点击下载)
+Clash Windows端：(https://github.com/Fndroid/clash_for_windows_pkg/releases)[点击下载]
 
-Clash Windows汉化地址：[https://drive.google.com/file/d/1hLY1pedrIxA1u8sEkPWnMLEsQawD0nvf/view?usp=sharing](点击下载)
+Clash Windows汉化地址：(https://drive.google.com/file/d/1hLY1pedrIxA1u8sEkPWnMLEsQawD0nvf/view?usp=sharing)[点击下载]
 
-Clash安卓客户端：[https://github.com/naicfeng/ClashRForAndroid/releases](点击下载)
+Clash安卓客户端：(https://github.com/naicfeng/ClashRForAndroid/releases)[点击下载]
 
-Clash .NET电脑客户端：[https://github.com/ClashDotNetFramework/experimental-clash/releases](点击下载)
+Clash .NET电脑客户端：(https://github.com/ClashDotNetFramework/experimental-clash/releases)[点击下载]
 
-WinXray Windows 客户端：[](点击下载)
+WinXray Windows 客户端：(https://github.com/TheMRLL/WinXray/releases)[点击下载]
