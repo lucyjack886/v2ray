@@ -49,7 +49,7 @@ clash订阅：https://suo.st/dW1UNYW
 
 V2RayN Windows 客户端：[点击下载](https://github.com/2dust/v2rayN/releases)
 
-V2Ray 安卓客户端：(https://github.com/2dust/v2rayNG/releases)[点击下载]
+V2Ray 安卓客户端：[https://github.com/2dust/v2rayNG/releases](点击下载)
 
 Clash Windows端：(https://github.com/Fndroid/clash_for_windows_pkg/releases)[点击下载]
 
