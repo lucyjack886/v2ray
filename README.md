@@ -1,3 +1,11 @@
+# 免费订阅
+
+9月14日更新： 提供免费订阅服务，节点速度快，请合理使用，由新辰云机场赞助。
+
+免费订阅：http://free.reami.us/api/v1/client/subscribe?token=b8db56320f2dcf643b6a3dfac53515d0
+
+### 新辰云机场：https://tg1.reami.us/#/register?code=0dA1qZWC
+
 # 机场推荐
 
 ### **新辰云机场**：[https://reami.us](https://reami.us/#/register?code=XIqJk9Ac)
