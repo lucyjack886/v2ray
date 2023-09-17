@@ -1,8 +1,12 @@
+# 翻墙社区 ｜ 机场社区 ｜ 科学上网经验交流社区
+
+翻墙党最新网址: https://www.fanqiangdang.org/
+
 # 免费机场订阅 ｜ 免费节点 ｜ 定期更新
 
 提供免费订阅服务，节点速度快，请合理使用，由新辰云机场赞助。
 
-9月14日更新免费订阅：http://free.reami.us/api/v1/client/subscribe?token=b8db56320f2dcf643b6a3dfac53515d0
+9月17日更新免费订阅：http://free.reami.us/api/v1/client/subscribe?token=b8db56320f2dcf643b6a3dfac53515d0
 
 ### 新辰云机场：[https://reami.us](https://reami.us/#/register?code=XIqJk9Ac)
 
