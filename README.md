@@ -2,6 +2,8 @@
 
 翻墙党最新网址: https://www.fanqiangdang.org/
 
+里面包含最新免费订阅链接，支持SSR、trojan、v2ray等类型的节点
+
 # 机场推荐
 
 ### **新辰云机场**：[https://tg1.reami.us](https://tg1.reami.us/#/register?code=XIqJk9Ac)
