@@ -1,7 +1,5 @@
 # VPN机场 ｜ VPN加速器 ｜ 手机翻墙 ｜ 电脑翻墙 ｜ 免费机场订阅 ｜ 免费节点 |机场推荐
 
-翻墙党最新网址: https://www.fanqiangdang.org/
-
 里面包含最新免费订阅链接，支持SSR、trojan、v2ray等类型的节点
 
 # 机场推荐
