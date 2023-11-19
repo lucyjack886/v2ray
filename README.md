@@ -6,9 +6,9 @@
 
 ### **新辰云机场**：[https://tg1.reami.us](https://tg1.reami.us/#/register?code=XIqJk9Ac)
 
-8折优惠券：XINGCHENYUN_BU
-8折优惠券：XINGCHENYUN_BU
-8折优惠券：XINGCHENYUN_BU
+* 8折优惠券：XINGCHENYUN_BU
+* 8折优惠券：XINGCHENYUN_BU
+* 8折优惠券：XINGCHENYUN_BU
 
 
 ### **TG频道**：https://t.me/starrySkyCloud
