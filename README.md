@@ -7,10 +7,11 @@
 ### **新辰云机场**：[https://tg1.reami.us](https://tg1.reami.us/#/register?code=XIqJk9Ac)
 
 #### 8折优惠券：XINGCHENYUN_BU
+#### 8折优惠券：XINGCHENYUN_BU
+#### 8折优惠券：XINGCHENYUN_BU
+
 
 ### **TG频道**：https://t.me/starrySkyCloud
-
-1、机场5折促销持续进行中
 
 #### 畅享稳定、高速、低延迟节点，只需1元，持久畅玩。无惧高峰时段，流畅观赏高清4K画质。节点遍布香港、美国、日本、韩国、新加坡，加拿大，澳大利亚等热门区域。
 
